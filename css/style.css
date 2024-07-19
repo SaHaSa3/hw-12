@@ -32,11 +32,84 @@ body {
   font-family: "Roboto";
 
 .container {
-    width: 1170px;
+    width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    padding-top: 24px;
+    padding-bottom: 25px;
+    outline: 1px solid red;
 }
 
+.container-hero {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  outline: 1px solid red;
+}
+
+.container-advantages {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 94px;
+  outline: 1px solid red;
+}
+
+.container-work {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 94px;
+  padding-bottom: 94px;
+  outline: 1px solid red;
+}
+
+.container-team {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 94px;
+  padding-bottom: 94px;
+  outline: 1px solid red;
+}
+
+.container-footer {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  outline: 1px solid red;
+}
+
+.container-header {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 24px;
+  padding-bottom: 25px;
+  outline: 1px solid red;
+}
+
+.container-card {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 94px;
+  padding-bottom: 94px;
+  outline: 1px solid red
+}
+
+.container-logo {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  outline: 1px solid red;
+}
 
 }
 .header-logo {
